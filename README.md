@@ -1,7 +1,7 @@
 # Numworks-Python-Chronometer-en-fr-version
 
 English : 
-  This is a Python project design for the Numworks Calculator that as Python interpreter.
+  This is a Python project design for the Numworks Calculator that as Python interpreter.\n
   If you speak english, copy the text in the file named "chronoen"
   this program feature a chronometer as well as a timer, follow the displaed instruction and everything will work fine !
   
